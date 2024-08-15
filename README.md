@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**jacobponce/jacobponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Jacob!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 About Me
+I'm a 3rd year Computer Engineering student at Cal Poly SLO with a passion for fullstack development.
+
+
+## More things about me...
+👨🏻‍💻 I'm currently working on [Golf-At](https://github.com/jacobponce/golf-rater) & [PolyMaps](https://github.com/jacobponce/maps_project_poly)
+
+🧠 I'm currently learning backend, database, and some ML skills!
+
+⛳ Outside of school I love playing golf, cooking, and watching other sports!
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-ponce/)
+
