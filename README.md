@@ -11,7 +11,7 @@ I'm a 3rd year Computer Engineering major at Cal Poly, San Luis Obispo, with a s
 
 🧠 I'm currently learning backend, database, and some ML skills!
 
-⛳ Outside of coding I love playing golf, cooking, and watching basketball, hockey, soccer, & football!
+⛳ Outside of coding I love playing golf, cooking, and watching sports!
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-ponce/)
