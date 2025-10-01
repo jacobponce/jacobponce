@@ -3,7 +3,7 @@
 
 
 ## 📖 About Me
-I'm a 3rd year Computer Engineering major at Cal Poly, San Luis Obispo, with a strong interest in full-stack development.
+I'm a 4th year Computer Engineering major at Cal Poly, San Luis Obispo, with a strong interest in full-stack development.
 
 
 ## More things about me...
