@@ -3,11 +3,11 @@
 
 
 ## 📖 About Me
-I'm a 4th year Computer Engineering major at Cal Poly, San Luis Obispo, with a strong interest in full-stack development.
+I'm a 4th year Computer Engineering major at Cal Poly, San Luis Obispo, with a strong interest in backend development.
 
 
 ## More things about me...
-👨🏻‍💻 I'm currently building [Golf-At](https://github.com/jacobponce/golf-rater) & [PolyMaps](https://github.com/jacobponce/maps_project_poly). Check out [golf@](https://golfatcollege.com/)!
+👨🏻‍💻 I'm currently building a fantasy football site [Fleeced](https://fleeced-web.vercel.app/polls).
 
 🧠 I'm currently learning backend, database, and some ML skills!
 
